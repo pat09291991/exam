@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.counterApp{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+.counterApp button{
+	height: 50px;
+	width: 150px;
+	background-color: black;
+	color: white;
+	border: 2px black solid;
+	border-radius: 2%;
+}
+
+.doubleFontSize{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	background-color: lightgray;
+
+}
+.doubleFontSize button{
+	height: 50px;
+	width: 150px;
+	background-color: black;
+	color: white;
+	border: 2px black solid;
+	border-radius: 2%;
+}
+.doubleFontSize p{
+	font-size: 13;
+}
+
+#changeColor{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+#changeColor button{
+	height: 50px;
+	width: 150px;
+	background-color: black;
+	color: white;
+	border: 2px black solid;
+	border-radius: 2%;
+}
+
